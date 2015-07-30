@@ -1,0 +1,5 @@
+HOST1 = "http://hoge.com"
+HOST1AUTH = ['yaki', 'niku']
+
+HOST2 = "http://foo.com/"
+# HOST2AUTH = ['', '']
